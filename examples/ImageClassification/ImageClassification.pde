@@ -1,7 +1,7 @@
 // Loads an image and classifies it as belonging into one of a finite number of classes
 // If the image is similar to the training set it should do a good job.  Where good job
 // is defined as correct 60% to 95% of the time.  If not similar in any way to the training
-// images then the resumts are likely to be humorous
+// images then the results are likely to be humorous
 
 import boofcv.processing.*;
 import java.util.*;
